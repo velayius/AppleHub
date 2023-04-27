@@ -1,1 +1,1 @@
-print('test')
+print(game.PlaceId)
